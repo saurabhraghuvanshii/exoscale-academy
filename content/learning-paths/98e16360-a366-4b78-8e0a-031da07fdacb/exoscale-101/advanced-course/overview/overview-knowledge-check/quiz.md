@@ -32,9 +32,10 @@ questions:
         is_correct: true
       - id: "h"
         text: "CDN"
+        is_correct: true
 
   - id: "q2"
-    text: "What is an Anti-Affinity Group in cloud computing?"
+    text: "Which of the following are ways to automate your Exoscale cloud infrastructure?"
     type: "mcq"
     multiple_answers: true
     marks: 2
