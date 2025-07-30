@@ -6,3 +6,13 @@ area/challenges:
 - changed-files:
   - any-glob-to-any-file:
     - "content/en/challenges/**/*"
+exoscale:
+- changed-files:
+  - any-glob-to-any-file:
+    - "content/en/challenges/**/*"
+    - "content/en/learning-paths/**/*"
+academy:
+- changed-files:
+  - any-glob-to-any-file:
+    - "content/en/challenges/**/*"
+    - "content/en/learning-paths/**/*"

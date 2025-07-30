@@ -52,6 +52,6 @@ check-go:
 ## Update the academy-theme package to latest version
 theme-update:
 	echo "Updating to latest academy-theme..." && \
-	hugo mod get -u
+	hugo mod get github.com/layer5io/academy-theme
 
 .PHONY: setup build site clean site-fast check-go theme-update
