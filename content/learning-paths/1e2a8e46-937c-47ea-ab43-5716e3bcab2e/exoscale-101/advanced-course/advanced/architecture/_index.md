@@ -17,6 +17,10 @@ Quickly scale up for more performance and easily scale down to safe cost or serv
 
 ![simple-arch](simple-arch.png)
 
+<!-- Learn more at https://docs.layer5.io/kanvas/designer/export-designs/#exporting-as-embedding -->
+<div id="embedded-design-226b885c-c04c-458b-b4b9-beeb1b69dbe1" style="height:100%;width:100%"></div>
+<script src="./embedded-design-untitled-design.js" type="module" ></script>
+
 ### Stateless Architecture
 
 Applications with stateless architecture (stateless apps) allow you to easily scale:
