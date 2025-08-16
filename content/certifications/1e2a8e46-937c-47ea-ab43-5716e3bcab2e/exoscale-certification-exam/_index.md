@@ -14,4 +14,12 @@ badge:
    png: "exoscale-csa-200.png"
    title: "Exoscale Certified"
    description: "Demonstrate your expertise in Exoscale's cloud platform with the Exoscale Certification. This certification validates your understanding of core concepts, technical networking, and cost management on Exoscale."
+
+certificate:
+    title: "Sample Exoscale Certification"
+    description: "The Exoscale Certification validates your expertise in Exoscale's cloud platform, covering core concepts, technical networking, and cost management. This certification is ideal for professionals looking to demonstrate their proficiency in deploying and optimizing solutions on Exoscale."
+    issuing_authorities:
+      - name: "James"
+        role: "COO"
+        signature_url: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chris_Hemsworth_Signature.png"
 ---
