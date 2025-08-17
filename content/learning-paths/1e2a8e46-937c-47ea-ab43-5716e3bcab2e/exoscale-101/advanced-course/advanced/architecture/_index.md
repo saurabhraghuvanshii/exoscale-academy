@@ -17,9 +17,7 @@ Quickly scale up for more performance and easily scale down to safe cost or serv
 
 
 
-<!-- Learn more at https://docs.layer5.io/kanvas/designer/export-designs/#exporting-as-embedding -->
-<div id="embedded-design-226b885c-c04c-458b-b4b9-beeb1b69dbe1" style="height:100%;width:100%"></div>
-<script src="./embedded-design-untitled-design.js" type="module" ></script>
+
 {{< meshery-design-embed 
         id="embedded-design-226b885c-c04c-458b-b4b9-beeb1b69dbe1"
         src="simple-arch.js"
