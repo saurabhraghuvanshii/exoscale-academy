@@ -54,7 +54,10 @@ Update Process handles everything fully automatic in the background:
 
 **Update Process - Step 2**
 
-![dbaas-update3](dbaas-update3.png)
+{{< meshery-design-embed
+  id="embedded-design-6ae20156-0d3a-4ca8-9262-3cffbf2789ce" 
+  src="dbaas-update3.js"
+>}}
 
 **Update Process - Step 3**
 
