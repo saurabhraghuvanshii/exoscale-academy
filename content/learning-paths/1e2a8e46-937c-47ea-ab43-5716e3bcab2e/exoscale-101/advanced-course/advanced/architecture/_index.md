@@ -15,7 +15,13 @@ There are challenges in the cloud. We just have reviewed to most common ones. Bu
 
 Quickly scale up for more performance and easily scale down to safe cost or serve a scenario with fewer performance needs. It is also important to safely store all data and configurations in backups and enable applications to be highly available. All of those requirements are reflected in your architecture.
 
-![simple-arch](simple-arch.png)
+
+
+{{< meshery-design-embed 
+        id="embedded-design-226b885c-c04c-458b-b4b9-beeb1b69dbe1"
+        src="simple-arch.js"
+ >}}
+hu
 
 ### Stateless Architecture
 
