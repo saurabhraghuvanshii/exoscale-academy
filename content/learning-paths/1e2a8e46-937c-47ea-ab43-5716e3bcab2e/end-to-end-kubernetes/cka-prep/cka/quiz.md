@@ -32,7 +32,7 @@ questions:
 
   - id: "q3"
     text: "What is the default namespace in Kubernetes if none is specified?"
-    type: "short_answer"
+    type: "short-answer"
     marks: 2
     correct_answer: "default"
 
@@ -70,7 +70,7 @@ questions:
 
   - id: "q6"
     text: "StatefulSets are used to manage stateless applications. (true/false)"
-    type: "short_answer"
+    type: "short-answer"
     marks: 2
     correct_answer: "false"
 
@@ -91,7 +91,7 @@ questions:
 
   - id: "q8"
     text: "Which kubectl command is used to create resources from a configuration file?"
-    type: "short_answer"
+    type: "short-answer"
     marks: 2
     correct_answer: "kubectl apply -f"
 
