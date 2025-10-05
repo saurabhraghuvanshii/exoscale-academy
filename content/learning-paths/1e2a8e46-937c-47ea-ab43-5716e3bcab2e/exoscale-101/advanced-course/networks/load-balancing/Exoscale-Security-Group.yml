@@ -1,0 +1,1746 @@
+id: 53dc3272-0cf9-43c5-a79a-bdea839c5fea
+name: Exoscale Security Group
+schemaVersion: designs.meshery.io/v1beta1
+version: 0.0.602
+metadata:
+  resolvedAliases: {}
+components:
+  - id: 81e520aa-7dea-41ee-a8b5-9d532b158c6b
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: f8c7aac1-fb0e-2123-4b78-58dda082f562
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-arrows
+      displayName: Meshery Arrows
+      description: Icons that used for pointing out
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: true
+        primaryColor: '#2196F3'
+        secondaryColor: '#00D3A9'
+        shape: polygon
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-arrows/color/meshery-arrows-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-arrows/white/meshery-arrows-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: '#cd2214'
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 198.22437
+      opacity: 1
+      padding: 6
+      position:
+        x: 334.5455252847074
+        y: 527.1124590857696
+      primaryColor: '#cd2214'
+      secondaryColor: '#00D3A9'
+      shape: polygon
+      shape-polygon-points: -0.23 -1 0.23 -1 0.23 0.38 0.46 0.38 0 1 -0.46 0.38 -0.23 0.38
+      svgColor: ui/public/static/img/meshmodels/meshery-arrows/color/downarrow-color.svg
+      svgComplete: ui/public/static/img/meshmodels/meshery-arrows/complete/downarrow-complete.svg
+      svgWhite: ui/public/static/img/meshmodels/meshery-arrows/white/downarrow-white.svg
+      width: 69.05702
+      z-index: 29
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: DownArrow
+      schema: ""
+  - id: a3f96fb4-81a3-4bf6-9541-a15044191a20
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: f8c7aac1-fb0e-2123-4b78-58dda082f562
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-arrows
+      displayName: Meshery Arrows
+      description: Icons that used for pointing out
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: true
+        primaryColor: '#2196F3'
+        secondaryColor: '#00D3A9'
+        shape: polygon
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-arrows/color/meshery-arrows-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-arrows/white/meshery-arrows-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: '#cd2214'
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 138.13965
+      opacity: 1
+      padding: 6
+      position:
+        x: 999.151949768712
+        y: 597.3400122966356
+      primaryColor: '#cd2214'
+      secondaryColor: '#00D3A9'
+      shape: polygon
+      shape-polygon-points: -0.23 -1 0.23 -1 0.23 0.38 0.46 0.38 0 1 -0.46 0.38 -0.23 0.38
+      svgColor: ui/public/static/img/meshmodels/meshery-arrows/color/downarrow-color.svg
+      svgComplete: ui/public/static/img/meshmodels/meshery-arrows/complete/downarrow-complete.svg
+      svgWhite: ui/public/static/img/meshmodels/meshery-arrows/white/downarrow-white.svg
+      width: 74.05702
+      z-index: 31
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: DownArrow
+      schema: ""
+  - id: 4168676a-fffc-4374-a87b-2c09d3935af3
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-fit: cover
+      background-image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Mi4zMjQgNDIuODVIMjAuMDM4YTQuOTc2IDQuOTc2IDAgMCAxLTQuOTctNC45N1YyMS45MDVjMC0yLjc0IDIuMjMtNC45NyA0Ljk3LTQuOTdoMjIuMjg2YzIuNzQgMCA0Ljk3IDIuMjMgNC45NyA0Ljk3VjM3Ljg4YzAgMi43NDEtMi4yMyA0Ljk3LTQuOTcgNC45N00yMC4wMzggMTguOTM1YTIuOTc0IDIuOTc0IDAgMCAwLTIuOTcgMi45N1YzNy44OGEyLjk3NCAyLjk3NCAwIDAgMCAyLjk3IDIuOTdoMjIuMjg2YTIuOTc0IDIuOTc0IDAgMCAwIDIuOTctMi45N1YyMS45MDVhMi45NzMgMi45NzMgMCAwIDAtMi45Ny0yLjk3em0xNi4yNDggMjcuOTFoLTEwLjIxYTEgMSAwIDEgMSAwLTJoMTAuMjFhMSAxIDAgMSAxIDAgMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==
+      background-opacity: 0
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-style: solid
+      border-width: 0
+      data:
+        label: ""
+      height: 88.8491
+      opacity: 1
+      padding: 0
+      position:
+        x: 936.7613747357975
+        y: 836.8857836748354
+      primaryColor: '#00B39F'
+      secondaryColor: '#00D3A9'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/picture-color.svg
+      svgComplete: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Mi4zMjQgNDIuODVIMjAuMDM4YTQuOTc2IDQuOTc2IDAgMCAxLTQuOTctNC45N1YyMS45MDVjMC0yLjc0IDIuMjMtNC45NyA0Ljk3LTQuOTdoMjIuMjg2YzIuNzQgMCA0Ljk3IDIuMjMgNC45NyA0Ljk3VjM3Ljg4YzAgMi43NDEtMi4yMyA0Ljk3LTQuOTcgNC45N00yMC4wMzggMTguOTM1YTIuOTc0IDIuOTc0IDAgMCAwLTIuOTcgMi45N1YzNy44OGEyLjk3NCAyLjk3NCAwIDAgMCAyLjk3IDIuOTdoMjIuMjg2YTIuOTc0IDIuOTc0IDAgMCAwIDIuOTctMi45N1YyMS45MDVhMi45NzMgMi45NzMgMCAwIDAtMi45Ny0yLjk3em0xNi4yNDggMjcuOTFoLTEwLjIxYTEgMSAwIDEgMSAwLTJoMTAuMjFhMSAxIDAgMSAxIDAgMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/picture-white.svg
+      width: 85.66064
+      z-index: 27
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: true
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: Picture
+      schema: ""
+  - id: 46fc4521-ef27-472c-a4d8-7ba93e3e8a2a
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-fit: cover
+      background-image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Mi4zMjQgNDIuODVIMjAuMDM4YTQuOTc2IDQuOTc2IDAgMCAxLTQuOTctNC45N1YyMS45MDVjMC0yLjc0IDIuMjMtNC45NyA0Ljk3LTQuOTdoMjIuMjg2YzIuNzQgMCA0Ljk3IDIuMjMgNC45NyA0Ljk3VjM3Ljg4YzAgMi43NDEtMi4yMyA0Ljk3LTQuOTcgNC45N00yMC4wMzggMTguOTM1YTIuOTc0IDIuOTc0IDAgMCAwLTIuOTcgMi45N1YzNy44OGEyLjk3NCAyLjk3NCAwIDAgMCAyLjk3IDIuOTdoMjIuMjg2YTIuOTc0IDIuOTc0IDAgMCAwIDIuOTctMi45N1YyMS45MDVhMi45NzMgMi45NzMgMCAwIDAtMi45Ny0yLjk3em0xNi4yNDggMjcuOTFoLTEwLjIxYTEgMSAwIDEgMSAwLTJoMTAuMjFhMSAxIDAgMSAxIDAgMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==
+      background-opacity: 0
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-style: solid
+      border-width: 0
+      data:
+        label: ""
+      height: 88.8491
+      opacity: 1
+      padding: 0
+      position:
+        x: 294.14756888290157
+        y: 830.6619211484152
+      primaryColor: '#00B39F'
+      secondaryColor: '#00D3A9'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/picture-color.svg
+      svgComplete: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Mi4zMjQgNDIuODVIMjAuMDM4YTQuOTc2IDQuOTc2IDAgMCAxLTQuOTctNC45N1YyMS45MDVjMC0yLjc0IDIuMjMtNC45NyA0Ljk3LTQuOTdoMjIuMjg2YzIuNzQgMCA0Ljk3IDIuMjMgNC45NyA0Ljk3VjM3Ljg4YzAgMi43NDEtMi4yMyA0Ljk3LTQuOTcgNC45N00yMC4wMzggMTguOTM1YTIuOTc0IDIuOTc0IDAgMCAwLTIuOTcgMi45N1YzNy44OGEyLjk3NCAyLjk3NCAwIDAgMCAyLjk3IDIuOTdoMjIuMjg2YTIuOTc0IDIuOTc0IDAgMCAwIDIuOTctMi45N1YyMS45MDVhMi45NzMgMi45NzMgMCAwIDAtMi45Ny0yLjk3em0xNi4yNDggMjcuOTFoLTEwLjIxYTEgMSAwIDEgMSAwLTJoMTAuMjFhMSAxIDAgMSAxIDAgMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/picture-white.svg
+      width: 85.66064
+      z-index: 32
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: true
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: Picture
+      schema: ""
+  - id: 5f65180d-334c-4e27-a726-22bf3c39176a
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-fit: cover
+      background-image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Ni44NjcgNDIuOTJIMjMuMzM1YTEgMSAwIDAgMS0xLTFjMC01LjE2NiAzLjE4NS05LjgwNSA3LjgzMS0xMS43NjZhNy42NSA3LjY1IDAgMCAxLTIuNzM2LTUuODc1YzAtMi4wNy44MTItNC4wMSAyLjI4Ni01LjQ2M3MzLjQyLTIuMjQ4IDUuNDk4LTIuMjA3YzQuMDkuMDYgNy40OCAzLjQzNSA3LjU1NiA3LjUyNmE3LjYzIDcuNjMgMCAwIDEtMi43MzMgNi4wMmM0LjY0NiAxLjk2MiA3LjgzIDYuNiA3LjgzIDExLjc2NWExIDEgMCAwIDEtMSAxbS0yMi4xNTQtMkg0NS40OWEuMjk3LjI5NyAwIDAgMCAuMjk1LS4zM2MtLjU2My00LjQ0LTMuOS04LjE4OC04LjM0Ni05LjE3M2ExIDEgMCAwIDEtLjE2OC0xLjljLjcyNi0uMzAyIDEuNC0uNzM2IDEuOTE4LTEuMzI3IDMuNzEyLTQuMjQxLjI4Ny05LjUyLTQuMDAzLTkuNTgxYTUuNjIgNS42MiAwIDAgMC00LjA2NSAxLjYzMWMtMS44MzYgMS44MS0yLjI4MiA0LjY0My0uODEgNy4yMzUuNTY4Ljk5OCAxLjU4MyAxLjU5IDIuNjM2IDIuMDQ4YTEgMSAwIDAgMS0uMTgzIDEuODk0Yy00LjQ0Ni45ODUtNy43ODIgNC43MzMtOC4zNDQgOS4xNzNhLjI5Ny4yOTcgMCAwIDAgLjI5NS4zM1ptLTIuOTA0LTYuMzc1SDE3LjQyYTIuOTMgMi45MyAwIDAgMS0yLjkyNS0yLjkyNnYtNy40MzRhMi45MyAyLjkzIDAgMCAxIDIuOTI1LTIuOTI2aDcuMjUzYS42MjUuNjI1IDAgMSAxIDAgMS4yNUgxNy40MmMtLjkyNCAwLTEuNjc1Ljc1Mi0xLjY3NSAxLjY3NXY3LjQzNWMwIC45MjQuNzUyIDEuNjc2IDEuNjc1IDEuNjc2aDQuMzg5YS42MjUuNjI1IDAgMCAxIDAgMS4yNU0yMC41NSAzNy45OGgtMS42M2EuNjI1LjYyNSAwIDAgMSAwLTEuMjVoMS42M2EuNjI1LjYyNSAwIDAgMSAwIDEuMjUiIHN0eWxlPSJmaWxsOiNmZmYiLz48L3N2Zz4=
+      background-opacity: 0
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-style: solid
+      border-width: 0
+      data:
+        label: ""
+      height: 100.93348
+      opacity: 1
+      padding: 0
+      position:
+        x: 333.4145088928295
+        y: 354.0897871565361
+      primaryColor: '#00B39F'
+      secondaryColor: '#00D3A9'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/picture-color.svg
+      svgComplete: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Ni44NjcgNDIuOTJIMjMuMzM1YTEgMSAwIDAgMS0xLTFjMC01LjE2NiAzLjE4NS05LjgwNSA3LjgzMS0xMS43NjZhNy42NSA3LjY1IDAgMCAxLTIuNzM2LTUuODc1YzAtMi4wNy44MTItNC4wMSAyLjI4Ni01LjQ2M3MzLjQyLTIuMjQ4IDUuNDk4LTIuMjA3YzQuMDkuMDYgNy40OCAzLjQzNSA3LjU1NiA3LjUyNmE3LjYzIDcuNjMgMCAwIDEtMi43MzMgNi4wMmM0LjY0NiAxLjk2MiA3LjgzIDYuNiA3LjgzIDExLjc2NWExIDEgMCAwIDEtMSAxbS0yMi4xNTQtMkg0NS40OWEuMjk3LjI5NyAwIDAgMCAuMjk1LS4zM2MtLjU2My00LjQ0LTMuOS04LjE4OC04LjM0Ni05LjE3M2ExIDEgMCAwIDEtLjE2OC0xLjljLjcyNi0uMzAyIDEuNC0uNzM2IDEuOTE4LTEuMzI3IDMuNzEyLTQuMjQxLjI4Ny05LjUyLTQuMDAzLTkuNTgxYTUuNjIgNS42MiAwIDAgMC00LjA2NSAxLjYzMWMtMS44MzYgMS44MS0yLjI4MiA0LjY0My0uODEgNy4yMzUuNTY4Ljk5OCAxLjU4MyAxLjU5IDIuNjM2IDIuMDQ4YTEgMSAwIDAgMS0uMTgzIDEuODk0Yy00LjQ0Ni45ODUtNy43ODIgNC43MzMtOC4zNDQgOS4xNzNhLjI5Ny4yOTcgMCAwIDAgLjI5NS4zM1ptLTIuOTA0LTYuMzc1SDE3LjQyYTIuOTMgMi45MyAwIDAgMS0yLjkyNS0yLjkyNnYtNy40MzRhMi45MyAyLjkzIDAgMCAxIDIuOTI1LTIuOTI2aDcuMjUzYS42MjUuNjI1IDAgMSAxIDAgMS4yNUgxNy40MmMtLjkyNCAwLTEuNjc1Ljc1Mi0xLjY3NSAxLjY3NXY3LjQzNWMwIC45MjQuNzUyIDEuNjc2IDEuNjc1IDEuNjc2aDQuMzg5YS42MjUuNjI1IDAgMCAxIDAgMS4yNU0yMC41NSAzNy45OGgtMS42M2EuNjI1LjYyNSAwIDAgMSAwLTEuMjVoMS42M2EuNjI1LjYyNSAwIDAgMSAwIDEuMjUiIHN0eWxlPSJmaWxsOiNmZmYiLz48L3N2Zz4=
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/picture-white.svg
+      width: 103.62688
+      z-index: 23
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: true
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: Picture
+      schema: ""
+  - id: cedc6fc5-39e5-4316-b45e-10e027325321
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-fit: cover
+      background-image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Mi4zMjQgNDIuODVIMjAuMDM4YTQuOTc2IDQuOTc2IDAgMCAxLTQuOTctNC45N1YyMS45MDVjMC0yLjc0IDIuMjMtNC45NyA0Ljk3LTQuOTdoMjIuMjg2YzIuNzQgMCA0Ljk3IDIuMjMgNC45NyA0Ljk3VjM3Ljg4YzAgMi43NDEtMi4yMyA0Ljk3LTQuOTcgNC45N00yMC4wMzggMTguOTM1YTIuOTc0IDIuOTc0IDAgMCAwLTIuOTcgMi45N1YzNy44OGEyLjk3NCAyLjk3NCAwIDAgMCAyLjk3IDIuOTdoMjIuMjg2YTIuOTc0IDIuOTc0IDAgMCAwIDIuOTctMi45N1YyMS45MDVhMi45NzMgMi45NzMgMCAwIDAtMi45Ny0yLjk3em0xNi4yNDggMjcuOTFoLTEwLjIxYTEgMSAwIDEgMSAwLTJoMTAuMjFhMSAxIDAgMSAxIDAgMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==
+      background-opacity: 0
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-style: solid
+      border-width: 0
+      data:
+        label: ""
+      height: 88.8491
+      opacity: 1
+      padding: 0
+      position:
+        x: 939.6642062103701
+        y: 385.4466507207259
+      primaryColor: '#00B39F'
+      secondaryColor: '#00D3A9'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/picture-color.svg
+      svgComplete: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Mi4zNjIgNjIuMzYyIj48cGF0aCBkPSJNMzEuMzE1IDYyLjM2MkMxMy40ODMgNjIuMzYyIDAgNDcuNTkgMCAzMS4zMTUgMCAxMi42MzMgMTUuNTU3IDAgMzEuMDggMGMxOC42MDIgMCAzMS4yODIgMTUuMzQgMzEuMjgyIDMwLjk0NyAwIDE5LjA1LTE1LjY1NyAzMS40MTUtMzEuMDQ3IDMxLjQxNSIgc3R5bGU9ImZpbGw6I2RhMjkxYyIvPjxwYXRoIGQ9Ik00Mi4zMjQgNDIuODVIMjAuMDM4YTQuOTc2IDQuOTc2IDAgMCAxLTQuOTctNC45N1YyMS45MDVjMC0yLjc0IDIuMjMtNC45NyA0Ljk3LTQuOTdoMjIuMjg2YzIuNzQgMCA0Ljk3IDIuMjMgNC45NyA0Ljk3VjM3Ljg4YzAgMi43NDEtMi4yMyA0Ljk3LTQuOTcgNC45N00yMC4wMzggMTguOTM1YTIuOTc0IDIuOTc0IDAgMCAwLTIuOTcgMi45N1YzNy44OGEyLjk3NCAyLjk3NCAwIDAgMCAyLjk3IDIuOTdoMjIuMjg2YTIuOTc0IDIuOTc0IDAgMCAwIDIuOTctMi45N1YyMS45MDVhMi45NzMgMi45NzMgMCAwIDAtMi45Ny0yLjk3em0xNi4yNDggMjcuOTFoLTEwLjIxYTEgMSAwIDEgMSAwLTJoMTAuMjFhMSAxIDAgMSAxIDAgMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/picture-white.svg
+      width: 85.66064
+      z-index: 38
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: true
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: Picture
+      schema: ""
+  - id: c2f1e8e8-e713-446b-b69d-0b4b4132a6ae
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: A four-sided shape with straight edges and right-angle corners. It is a versatile shape often used to represent data types like documents, processes, or simple entities.
+    format: JSON
+    model:
+      id: 9d2e5746-210f-0d1f-d22e-bed178cebefd
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-shapes
+      displayName: Meshery Shapes
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: true
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/meshery-shapes-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/meshery-shapes-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: '#cd2214'
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 628.67694
+      opacity: 1
+      padding: 6
+      position:
+        x: 772.8172821744683
+        y: 595.3318272464546
+      primaryColor: '#cd2214'
+      secondaryColor: '#00D3A9'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/rectangle-color.svg
+      svgComplete: ui/public/static/img/meshmodels/meshery-shapes/complete/rectangle-complete.svg
+      svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/rectangle-white.svg
+      width: -3.7216117
+      z-index: 30
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: Rectangle
+      schema: ""
+  - id: a41b898f-82e0-4215-a01d-46c3ead32913
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: Similar to a rectangle but with rounded corners, providing a softer, more approachable look. This shape is often used to visually distinguish nodes from standard rectangular nodes, indicating a special status or different type of data.
+    format: JSON
+    model:
+      id: 9d2e5746-210f-0d1f-d22e-bed178cebefd
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-shapes
+      displayName: Meshery Shapes
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: true
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/meshery-shapes-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/meshery-shapes-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(38,38,43)
+      border-style: solid
+      border-width: 4
+      data:
+        label: ""
+      height: 75.78875
+      opacity: 1
+      padding: 6
+      position:
+        x: 994.3023423489244
+        y: 821.780588041616
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#00D3A9'
+      shape: round-rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/roundrectangle-color.svg
+      svgComplete: ui/public/static/img/meshmodels/meshery-shapes/complete/roundrectangle-complete.svg
+      svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/roundrectangle-white.svg
+      width: 219.6727
+      z-index: 3
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: RoundRectangle
+      schema: ""
+  - id: a690a2a2-4c29-4562-b684-3b7ae71b934a
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: Similar to a rectangle but with rounded corners, providing a softer, more approachable look. This shape is often used to visually distinguish nodes from standard rectangular nodes, indicating a special status or different type of data.
+    format: JSON
+    model:
+      id: 9d2e5746-210f-0d1f-d22e-bed178cebefd
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-shapes
+      displayName: Meshery Shapes
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: true
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/meshery-shapes-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/meshery-shapes-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: ""
+      body-text-color: '#808080'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(38,38,43)
+      border-style: solid
+      border-width: 4
+      data:
+        label: ""
+      height: 75.78875
+      opacity: 1
+      padding: 6
+      position:
+        x: 996.1645762945948
+        y: 372.1766435122173
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#00D3A9'
+      shape: round-rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/roundrectangle-color.svg
+      svgComplete: ui/public/static/img/meshmodels/meshery-shapes/complete/roundrectangle-complete.svg
+      svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/roundrectangle-white.svg
+      width: 219.6727
+      z-index: 25
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: RoundRectangle
+      schema: ""
+  - id: d8396af8-fe8f-4de9-890e-35354911152f
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: Similar to a rectangle but with rounded corners, providing a softer, more approachable look. This shape is often used to visually distinguish nodes from standard rectangular nodes, indicating a special status or different type of data.
+    format: JSON
+    model:
+      id: 9d2e5746-210f-0d1f-d22e-bed178cebefd
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-shapes
+      displayName: Meshery Shapes
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:37.492267124Z"
+        updated_at: "2025-09-30T07:43:37.492267124Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: true
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/meshery-shapes-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/meshery-shapes-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: ""
+      body-text-color: '#de5720'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 12
+      body-text-font-weight: "400"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(38,38,43)
+      border-style: solid
+      border-width: 4
+      data:
+        label: ""
+      height: 75.78875
+      opacity: 1
+      padding: 6
+      position:
+        x: 347.3970309197462
+        y: 819.9220447803917
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#00D3A9'
+      shape: round-rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-shapes/color/roundrectangle-color.svg
+      svgComplete: ui/public/static/img/meshmodels/meshery-shapes/complete/roundrectangle-complete.svg
+      svgWhite: ui/public/static/img/meshmodels/meshery-shapes/white/roundrectangle-white.svg
+      width: 219.6727
+      z-index: 14
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: RoundRectangle
+      schema: ""
+  - id: 001ef9f6-181e-4ebf-9af5-fc5558ef9d53
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2+
+                  V M
+        ------------
+           Linux Server
+
+      body-text-color: '#000000'
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 15
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 53.22109
+      opacity: 1
+      padding: 6
+      position:
+        x: 394.3787059461665
+        y: 820.6199135436018
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 114.806526
+      z-index: 16
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: 628413bb-af7b-45e8-9cf9-c533562b3d3d
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: "       Allow port 3306/tcp\n\n         for Security Group \n\n           Backend Server"
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 20
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 107.60379
+      opacity: 1
+      padding: 6
+      position:
+        x: 1273.6340119690446
+        y: 707.6494663903875
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 250.34026
+      z-index: 28
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: 6979c575-2236-4f9f-96fc-dece1969bb5e
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2
+          Company network
+
+            102.42.42.4/24
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 18
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(177,182,184)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 82.16804
+      opacity: 1
+      padding: 6
+      position:
+        x: 491.67378901996676
+        y: 359.53701367650274
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 161.90787
+      z-index: 39
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: 7f3c498a-1b56-4871-84bb-c90c8dbd3e5f
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2-
+            Security Group
+
+           Backend Server
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 19
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 66
+      opacity: 1
+      padding: 6
+      position:
+        x: 998.6353205550928
+        y: 472.46769236958005
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 161.06877
+      z-index: 26
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: 8e09e0ea-70f8-499a-9c11-bd6a035154f8
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: "   Allow port 22/tcp \n\n   for 102.42.42.0/24"
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 20
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 90.97341
+      opacity: 1
+      padding: 6
+      position:
+        x: 573.2403779581234
+        y: 702.7724697069348
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 191.88428
+      z-index: 35
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: a3e5b8df-ff5f-4a55-bc70-6660fc4d6e8c
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2-
+                    V M
+        ---------------
+              DB Server
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 14
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 57.520947
+      opacity: 1
+      padding: 6
+      position:
+        x: 1028.4667793865692
+        y: 821.3039079012688
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 115.23871
+      z-index: 24
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: bed88a64-1722-464f-8575-df2226cd021e
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2-
+            Security Group
+
+            DB  Server
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 19
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 66
+      opacity: 1
+      padding: 6
+      position:
+        x: 997.288454712125
+        y: 723.1872588466348
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 161.06877
+      z-index: 36
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: bf5298f1-5f1d-4ea2-8779-356aca22326d
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2-
+                    V M
+        ---------------
+         Backend Server
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 14
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,255,255)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 54.540527
+      opacity: 1
+      padding: 6
+      position:
+        x: 1040.0938174017656
+        y: 370.4268330077495
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 111.659615
+      z-index: 37
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+  - id: d1b1e826-9920-4145-af74-05a89cb11ffb
+    schemaVersion: components.meshery.io/v1beta1
+    version: v1.0.0
+    displayName: ""
+    description: ""
+    format: JSON
+    model:
+      id: 6b49e0cc-6d83-f917-b2bd-30b69792bb20
+      schemaVersion: models.meshery.io/v1beta1
+      version: v1.0.0
+      name: meshery-core
+      displayName: Meshery Core
+      status: enabled
+      registrant:
+        id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+        name: meshery
+        type: registry
+        sub_type: ""
+        kind: meshery
+        status: registered
+        created_at: "2025-09-30T07:43:23.537737962Z"
+        updated_at: "2025-09-30T07:43:23.537737962Z"
+        deleted_at: null
+        schemaVersion: ""
+      connection_id: 13df38ce-edc0-8c01-ed9f-0414912a43fd
+      category:
+        id: 9ca27d0d-66ce-42a9-8c85-6236563f2ddb
+        name: Orchestration & Management
+      subCategory: Application Definition & Image Build
+      metadata:
+        isAnnotation: false
+        primaryColor: '#00B39F'
+        secondaryColor: '#00D3A9'
+        shape: circle
+        styleOverrides: ""
+        svgColor: ui/public/static/img/meshmodels/meshery-core/color/meshery-core-color.svg
+        svgComplete: ""
+        svgWhite: ui/public/static/img/meshmodels/meshery-core/white/meshery-core-white.svg
+      model:
+        version: 0.7.2
+      components_count: 0
+      relationships_count: 0
+      components: null
+      relationships: null
+    styles:
+      background-image: none
+      background-image-opacity: 1
+      background-opacity: 1
+      body-text: |2-
+            Security Group
+
+               Linux Server
+      body-text-color: rgb(38,38,43)
+      body-text-font-family: Qanelas Soft
+      body-text-font-size: 19
+      body-text-font-weight: "700"
+      body-text-horizontal-align: center
+      body-text-text-decoration: none
+      body-text-vertical-align: center
+      border-color: rgb(255,243,197)
+      border-style: solid
+      border-width: 1
+      data:
+        label: ""
+      height: 66
+      opacity: 1
+      padding: 6
+      position:
+        x: 348.0325867555338
+        y: 707.2094029533087
+      primaryColor: rgb(255,243,197)
+      secondaryColor: '#FFDE00'
+      shape: rectangle
+      svgColor: ui/public/static/img/meshmodels/meshery-core/color/textbox-color.svg
+      svgComplete: ""
+      svgWhite: ui/public/static/img/meshmodels/meshery-core/white/textbox-white.svg
+      width: 161.06877
+      z-index: 40
+    capabilities: []
+    status: enabled
+    metadata:
+      configurationUISchema: ""
+      genealogy: ""
+      hasInvalidSchema: true
+      instanceDetails: null
+      isAnnotation: true
+      isNamespaced: false
+      published: false
+    configuration: {}
+    component:
+      version: core.meshery.io/v1alpha1
+      kind: TextBox
+      schema: ""
+preferences:
+  layers:
+    components:
+      annotations: true
+    relationships:
+      hierarchical-sibling-matchlabels: false
+relationships: []
