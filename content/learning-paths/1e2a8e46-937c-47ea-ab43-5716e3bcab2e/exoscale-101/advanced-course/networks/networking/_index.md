@@ -10,7 +10,10 @@ Overview
 
 This topic has many layers and can be intimidating and complex sometimes. Therefore, we break it down into smaller pieces to convey the cloud-relevant parts of it and introduce Exoscale networking features. If the diagram below looks intimidating to you, don't worry. After completing this section of the course, it will feel very natural.
 
-![networking](networking.png)
+{{< meshery-design-embed
+   id="embedded-design-7fc7e3ac-cd62-430b-a573-1dfc4b22b46a"
+   src="advanced_design.js"
+>}}
 
 The next steps are to look into the following topics and demystify networking:
 
