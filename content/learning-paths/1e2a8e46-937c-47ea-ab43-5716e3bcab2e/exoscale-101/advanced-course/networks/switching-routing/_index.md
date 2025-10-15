@@ -30,10 +30,7 @@ Example IP address: 10.55.22.1/32
 - And it must be on the same subnet
 
 
-{{< meshery-design-embed
-   id="embedded-design-2bd32e2b-d52a-405a-81f3-e55375e7aa1e"
-   src="advanced_design-1.js"
->}}
+![switching](switching.png)
 
 ### IP Addresses
 A subnet for one IP address
