@@ -29,6 +29,7 @@ Example IP address: 10.55.22.1/32
 - Each computer can talk to the other on the same local network
 - And it must be on the same subnet
 
+
 ![switching](switching.png)
 
 ### IP Addresses
@@ -52,4 +53,7 @@ A subnet for 256 IP addresses
 - Talk to different subnets --> router (gateway) must be used
 - Gateway IP needs to be specified --> Gateway IP must be usually on same subnet
 
-![networking1](networking1.png)
+{{< meshery-design-embed
+   id="embedded-design-7fc7e3ac-cd62-430b-a573-1dfc4b22b46a"
+   src="advanced_design.js"
+>}}
