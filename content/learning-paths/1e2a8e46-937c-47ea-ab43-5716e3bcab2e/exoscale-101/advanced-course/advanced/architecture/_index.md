@@ -24,7 +24,7 @@ Quickly scale up for more performance and easily scale down to safe cost or serv
 
 {{< meshery-design-embed
    id="embedded-design-7fc7e3ac-cd62-430b-a573-1dfc4b22b46a"
-   src="embedded-design-7fc7e3ac-cd62-430b-a573-1dfc4b22b46a.js"
+   src="advanced_design.js"
 >}}
 
 hu
