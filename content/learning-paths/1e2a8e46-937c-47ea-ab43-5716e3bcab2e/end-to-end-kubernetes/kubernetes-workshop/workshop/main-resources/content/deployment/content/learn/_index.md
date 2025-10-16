@@ -165,11 +165,10 @@ kubectl delete deploy www
 ## Using Deployments in the VotingApp
 
 The previous exercise left the app with the following components:
-
 ![environments](votingapp-3.png)
 
 We will now use Deployments to manage Pods instead of running the Pods directly. The Pods created by these Deployments will be exposed by the same Service.
 
-![environments](votingapp-4.png)
+{{< meshery-design-embed id="embedded-design-04dd67b0-47e9-47eb-a3d2-849c9cca5f49" src="votingapp-4.js" >}}
 
 
