@@ -40,32 +40,20 @@ Update Process handles everything fully automatic in the background:
 
 **->** Downtime of less than 10 seconds
 
-{{< meshery-design-embed
-  id="embedded-design-8061a7a0-3785-4458-a5d9-833a7a4dddcf"
-  src="dbaas-update1.js"
->}}
+{{< meshery-design-embed id="embedded-design-8061a7a0-3785-4458-a5d9-833a7a4dddcf" src="dbaas-update1.js" >}}
 
 **Update Process - Step 1**
 
-{{< meshery-design-embed
-  id="embedded-design-3a6ee556-51b3-4233-bac2-5ac4440b12d7"
-  src="dbaas-update2.js"
->}}
+{{< meshery-design-embed id="embedded-design-3a6ee556-51b3-4233-bac2-5ac4440b12d7" src="dbaas-update2.js" >}}
 
 **Update Process - Step 2**
 
-{{< meshery-design-embed
-  id="embedded-design-6ae20156-0d3a-4ca8-9262-3cffbf2789ce" 
-  src="dbaas-update3.js"
->}}
+{{< meshery-design-embed id="embedded-design-6ae20156-0d3a-4ca8-9262-3cffbf2789ce" src="dbaas-update3.js" >}}
 
 **Update Process - Step 3**
 
 <!-- ![dbaas-update4](dbaas-update4.png) -->
-{{< meshery-design-embed
-  id="embedded-design-cabf6f4b-e4b6-4f4f-90d6-ffdd91933fe0"
-  src="dbaas-update4.js"
->}}
+{{< meshery-design-embed id="embedded-design-cabf6f4b-e4b6-4f4f-90d6-ffdd91933fe0" src="dbaas-update4.js" >}}
 
 ### DBaaS - Further Possibilities
 

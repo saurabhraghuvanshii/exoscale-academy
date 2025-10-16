@@ -17,11 +17,7 @@ Quickly scale up for more performance and easily scale down to safe cost or serv
 
 
 
-{{< meshery-design-embed 
-        id="embedded-design-226b885c-c04c-458b-b4b9-beeb1b69dbe1"
-        src="simple-arch.js"
- >}}
-hu
+{{< meshery-design-embed id="embedded-design-226b885c-c04c-458b-b4b9-beeb1b69dbe1" src="simple-arch.js" >}}
 
 ### Stateless Architecture
 
@@ -39,10 +35,7 @@ Applications with stateless architecture (stateless apps) allow you to easily sc
 
 Two very common application architecture used for designing solution on-permises and in the cloud, but also very different ones.
 
-{{< meshery-design-embed
-  id="embedded-design-bf8f0f98-cb95-40ba-8702-41fda7b4a806"
-  src="mono-vs-micro.js"
->}}
+{{< meshery-design-embed id="embedded-design-bf8f0f98-cb95-40ba-8702-41fda7b4a806" src="mono-vs-micro.js" >}}
 
 ### Kubernetes
 Scalable Kubernetes Service (SKS)
