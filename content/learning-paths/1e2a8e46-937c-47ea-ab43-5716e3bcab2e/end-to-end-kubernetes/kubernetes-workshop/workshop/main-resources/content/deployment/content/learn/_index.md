@@ -169,6 +169,6 @@ The previous exercise left the app with the following components:
 
 We will now use Deployments to manage Pods instead of running the Pods directly. The Pods created by these Deployments will be exposed by the same Service.
 
-{{< meshery-design-embed id="embedded-design-04dd67b0-47e9-47eb-a3d2-849c9cca5f49" src="votingapp-3.js" >}}
+{{< meshery-design-embed id="embedded-design-04dd67b0-47e9-47eb-a3d2-849c9cca5f49" src="votingapp-4.js" >}}
 
 
