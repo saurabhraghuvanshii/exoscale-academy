@@ -80,7 +80,7 @@ kubectl apply -f deploy.yaml
 
 If a Pod is deleted, a new one is automatically created to replace it, ensuring that 3 Pods (replicas) are always running as specified
 
-{{< image src="/images/learning-path/intro-kubernetes/resources/deployment/learn/deploy-2.png" align="center" width="100%" alt="Deployment" >}}
+![environments](deploy-2.png)
 
 If we need to update an application, in order to use a newer image for the containers, we can easily do so modifying the Deployment specification and applying the new version.
 
