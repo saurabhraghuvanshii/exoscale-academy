@@ -231,7 +231,9 @@ spec:
 
 The previous exercise left the app with the following components:
 
-![votingapp-1](votingapp-1.png)
+{{< meshery-design-embed id="embedded-design-04dd67b0-47e9-47eb-a3d2-849c9cca5f49" src="votingapp-1.js" >}}
+
+
 
 We will now add a Secret to store the password required to connect to the PostgreSQL database.
 
