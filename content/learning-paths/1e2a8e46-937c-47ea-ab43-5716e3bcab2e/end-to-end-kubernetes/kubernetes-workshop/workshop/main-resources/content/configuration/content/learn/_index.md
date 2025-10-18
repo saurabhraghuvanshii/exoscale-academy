@@ -237,4 +237,6 @@ The previous exercise left the app with the following components:
 
 We will now add a Secret to store the password required to connect to the PostgreSQL database.
 
-![votingapp-2](votingapp-2.png)
+{{< meshery-design-embed id="embedded-design-51050f64-68d9-4cdc-82ed-571651e2f832" src="votingapp-2.js" >}}
+
+
