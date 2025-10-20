@@ -8,4 +8,9 @@ weight: 1
 tags: [exoscale, cloud, infrastructure]
 level: "intermediate"
 categories: "platform"
+
+# List of additional resources
+related_resources:
+  - title: "Meshery Model for Exoscale Icons"
+    link: "https://meshery.io/catalog/models/exoscale-icons"
 ---
