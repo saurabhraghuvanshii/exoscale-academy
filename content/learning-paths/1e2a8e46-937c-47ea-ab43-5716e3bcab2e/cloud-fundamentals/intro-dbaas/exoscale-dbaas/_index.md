@@ -6,4 +6,8 @@ weight: 3
 tags: [databases, exoscale]
 level: "beginner"
 categories: "infrastructure"
+# List of additional resources
+related_resources:
+  - title: "Meshery Model for Exoscale Icons"
+    link: "https://meshery.io/catalog/models/exoscale-icons"
 ---
