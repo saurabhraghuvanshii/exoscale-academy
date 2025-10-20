@@ -8,4 +8,8 @@ id: "754023a4-7993-4b01-a7f0-c66c0517d1d1"
 tags: [infrastructure]
 level: "intermediate"
 categories: "platform"
+# List of additional resources
+related_resources:
+  - title: "Meshery Model for Exoscale Icons"
+    link: "https://meshery.io/catalog/models/exoscale-icons"
 ---
