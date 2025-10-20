@@ -8,4 +8,8 @@ weight: 3
 tags: [pricing]
 level: "beginner"
 categories: "platform"
+# List of additional resources
+related_resources:
+  - title: "Meshery Model for Exoscale Icons"
+    link: "https://meshery.io/catalog/models/exoscale-icons"
 ---
