@@ -147,7 +147,7 @@ Each level uses `_index.md` files with [Hugo frontmatter](https://gohugo.io/cont
    passPercentage: 70
    maxAttempts: 3
    timeLimit: 30
-   numberOfQuestions: 1
+   numberOfQuestions: 1 # Total number of questions in the assessment
    questions:
      - id: "q1"
        text: "Exoscale Academy content is authored in Markdown."
@@ -159,6 +159,7 @@ Each level uses `_index.md` files with [Hugo frontmatter](https://gohugo.io/cont
            isCorrect: true
          - id: "false"
            text: "False"
+           isCorrect: false
    ---
    ```
 
